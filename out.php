@@ -34,7 +34,7 @@ $msg2 = 'nutukimas';
     </style>
 </head>
 <body>
-    <div class="container d-flex justify-content-center">
+    <div class="container d-flex vh-100 align-items-center justify-content-center">
         <div class="row">
             <div class="col-md-12">
                 <div class="card mt-5 text-bg-dark text-center bg-opacity-75">

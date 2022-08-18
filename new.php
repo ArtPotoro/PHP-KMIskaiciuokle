@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <div class="container d-flex justify-content-center align-item-center">
+    <div class="container d-flex justify-content-center vh-100 align-items-center">
         <div class="row">
             <div class="col-md-12 ">
                 <div class="card mt-5 text-bg-dark text-center bg-opacity-75">
